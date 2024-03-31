@@ -1,0 +1,11 @@
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\bin\Debug\net8.0\BibliotecaDeMascara.deps.json
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\bin\Debug\net8.0\BibliotecaDeMascara.dll
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\bin\Debug\net8.0\BibliotecaDeMascara.pdb
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\obj\Debug\net8.0\BibliotecaDeMascara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\obj\Debug\net8.0\BibliotecaDeMascara.AssemblyInfoInputs.cache
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\obj\Debug\net8.0\BibliotecaDeMascara.AssemblyInfo.cs
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\obj\Debug\net8.0\BibliotecaDeMascara.csproj.CoreCompileInputs.cache
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\obj\Debug\net8.0\BibliotecaDeMascara.dll
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\obj\Debug\net8.0\refint\BibliotecaDeMascara.dll
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\obj\Debug\net8.0\BibliotecaDeMascara.pdb
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaDeMascara\BibliotecaDeMascara\obj\Debug\net8.0\ref\BibliotecaDeMascara.dll
